@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:mangrove_shelf",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stripped_mangrove_log"
+  }
+}

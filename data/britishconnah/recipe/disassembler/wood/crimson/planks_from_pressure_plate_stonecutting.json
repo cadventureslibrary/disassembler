@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:crimson_pressure_plate",
+  "result": {
+    "count": 1,
+    "id": "minecraft:crimson_planks"
+  }
+}

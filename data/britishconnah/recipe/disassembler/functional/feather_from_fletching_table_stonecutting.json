@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:fletching_table",
+  "result": {
+    "count": 1,
+    "id": "minecraft:feather"
+  }
+}

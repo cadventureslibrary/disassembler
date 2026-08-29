@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:mangrove_sign",
+  "result": {
+    "count": 1,
+    "id": "minecraft:mangrove_planks"
+  }
+}

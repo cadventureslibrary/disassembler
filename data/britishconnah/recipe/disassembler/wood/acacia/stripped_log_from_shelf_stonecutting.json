@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:acacia_shelf",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stripped_acacia_log"
+  }
+}

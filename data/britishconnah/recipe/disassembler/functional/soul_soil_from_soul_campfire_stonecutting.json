@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:soul_campfire",
+  "result": {
+    "count": 1,
+    "id": "minecraft:soul_soil"
+  }
+}

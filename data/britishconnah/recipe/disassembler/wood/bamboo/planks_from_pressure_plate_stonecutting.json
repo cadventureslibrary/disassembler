@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:bamboo_pressure_plate",
+  "result": {
+    "count": 1,
+    "id": "minecraft:bamboo_planks"
+  }
+}

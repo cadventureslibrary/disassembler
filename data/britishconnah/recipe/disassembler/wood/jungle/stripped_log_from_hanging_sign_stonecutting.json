@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:jungle_hanging_sign",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stripped_jungle_log"
+  }
+}

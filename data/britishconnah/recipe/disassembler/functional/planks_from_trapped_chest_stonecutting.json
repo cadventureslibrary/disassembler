@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:trapped_chest",
+  "result": {
+    "count": 1,
+    "id": "minecraft:oak_planks"
+  }
+}

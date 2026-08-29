@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:bamboo_hanging_sign",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stripped_bamboo_block"
+  }
+}

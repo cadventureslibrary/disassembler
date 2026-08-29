@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:decorated_pot",
+  "result": {
+    "count": 4,
+    "id": "minecraft:brick"
+  }
+}

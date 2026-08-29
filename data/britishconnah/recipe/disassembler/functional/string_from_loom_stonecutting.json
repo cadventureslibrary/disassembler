@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:loom",
+  "result": {
+    "count": 1,
+    "id": "minecraft:string"
+  }
+}

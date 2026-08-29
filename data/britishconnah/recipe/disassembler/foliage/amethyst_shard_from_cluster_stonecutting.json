@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:amethyst_cluster",
+  "result": {
+    "count": 1,
+    "id": "minecraft:amethyst_shard"
+  }
+}

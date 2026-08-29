@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:furnace",
+  "result": {
+    "count": 1,
+    "id": "minecraft:cobblestone"
+  }
+}

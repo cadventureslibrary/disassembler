@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:sea_lantern",
+  "result": {
+    "count": 1,
+    "id": "minecraft:prismarine_crystals"
+  }
+}

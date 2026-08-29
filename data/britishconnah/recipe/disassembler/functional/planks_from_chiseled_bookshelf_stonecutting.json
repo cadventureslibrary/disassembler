@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:chiseled_bookshelf",
+  "result": {
+    "count": 1,
+    "id": "minecraft:oak_planks"
+  }
+}

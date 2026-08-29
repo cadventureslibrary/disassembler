@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:cherry_chest_boat",
+  "result": {
+    "count": 1,
+    "id": "minecraft:cherry_planks"
+  }
+}

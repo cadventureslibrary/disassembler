@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:oak_chest_boat",
+  "result": {
+    "count": 1,
+    "id": "minecraft:oak_planks"
+  }
+}

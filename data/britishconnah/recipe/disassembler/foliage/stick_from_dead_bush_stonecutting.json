@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:dead_bush",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stick"
+  }
+}

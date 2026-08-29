@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:spruce_hanging_sign",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stripped_spruce_log"
+  }
+}

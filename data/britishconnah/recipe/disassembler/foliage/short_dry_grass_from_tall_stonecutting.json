@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:tall_dry_grass",
+  "result": {
+    "count": 2,
+    "id": "minecraft:short_dry_grass"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:copper_chain",
+  "result": {
+    "count": 1,
+    "id": "minecraft:copper_nugget"
+  }
+}

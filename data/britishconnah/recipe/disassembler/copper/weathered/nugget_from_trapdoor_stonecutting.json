@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:weathered_copper_trapdoor",
+  "result": {
+    "count": 1,
+    "id": "minecraft:copper_nugget"
+  }
+}

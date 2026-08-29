@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:birch_fence",
+  "result": {
+    "count": 1,
+    "id": "minecraft:birch_planks"
+  }
+}

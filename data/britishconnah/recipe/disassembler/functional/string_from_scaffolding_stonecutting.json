@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "disassembler",
+  "ingredient": "minecraft:scaffolding",
+  "result": {
+    "count": 1,
+    "id": "minecraft:string"
+  }
+}
