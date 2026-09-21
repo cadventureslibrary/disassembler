@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:cherry_fence_gate",
+  "result": {
+    "id": "minecraft:stick",
+    "count": 1
+  }
+}

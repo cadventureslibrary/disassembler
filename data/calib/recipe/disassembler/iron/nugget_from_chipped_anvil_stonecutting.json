@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:chipped_anvil",
+  "result": {
+    "id": "minecraft:iron_nugget",
+    "count": 1
+  }
+}

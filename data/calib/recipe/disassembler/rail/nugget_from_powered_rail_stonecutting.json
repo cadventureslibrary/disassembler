@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:powered_rail",
+  "result": {
+    "id": "minecraft:gold_nugget",
+    "count": 1
+  }
+}

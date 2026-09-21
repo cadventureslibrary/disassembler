@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:decorated_pot",
+  "result": {
+    "id": "minecraft:brick",
+    "count": 1
+  }
+}

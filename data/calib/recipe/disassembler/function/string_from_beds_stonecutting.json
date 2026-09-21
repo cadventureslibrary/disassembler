@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#minecraft:beds",
+  "result": {
+    "id": "minecraft:string",
+    "count": 1
+  }
+}

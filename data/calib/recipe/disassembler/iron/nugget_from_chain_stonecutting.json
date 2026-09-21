@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:iron_chain",
+  "result": {
+    "id": "minecraft:iron_nugget",
+    "count": 1
+  }
+}

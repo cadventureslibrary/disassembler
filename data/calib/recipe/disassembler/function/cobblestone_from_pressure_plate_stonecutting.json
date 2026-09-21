@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:stone_pressure_plate",
+  "result": {
+    "id": "minecraft:cobblestone",
+    "count": 1
+  }
+}

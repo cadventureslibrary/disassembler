@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:soul_campfire",
+  "result": {
+    "id": "minecraft:soul_soil",
+    "count": 1
+  }
+}

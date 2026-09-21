@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:straw_bed",
+  "result": {
+    "id": "minecraft:wheat",
+    "count": 1
+  }
+}

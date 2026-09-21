@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:ender_chest",
+  "result": {
+    "id": "minecraft:ender_eye",
+    "count": 1
+  }
+}

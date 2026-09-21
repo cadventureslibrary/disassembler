@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:tall_dry_grass",
+  "result": {
+    "id": "minecraft:short_dry_grass",
+    "count": 2
+  }
+}

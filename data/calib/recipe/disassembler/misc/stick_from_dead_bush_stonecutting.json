@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:dead_bush",
+  "result": {
+    "id": "minecraft:stick",
+    "count": 1
+  }
+}

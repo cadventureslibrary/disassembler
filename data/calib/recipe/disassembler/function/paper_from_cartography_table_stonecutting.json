@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:cartography_table",
+  "result": {
+    "id": "minecraft:paper",
+    "count": 1
+  }
+}

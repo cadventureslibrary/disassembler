@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:copper_torch",
+  "result": {
+    "id": "minecraft:stick",
+    "count": 1
+  }
+}
